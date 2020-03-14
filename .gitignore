@@ -1,0 +1,6 @@
+.mvn
+.CLASSPATH
+HELP.md
+.settings/
+.project
+target/
